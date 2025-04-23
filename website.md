@@ -99,7 +99,7 @@ Templates are defined in [template.conf](https://raw.githubusercontent.com/Abstr
 
 ### Bad Syntax Examples
 - {{NonexistentTemplate}}
-- {{SingleLineTemplateNoArg} <- Wrong Syntax
+- {SingleLineTemplateNoArg} <- Wrong Syntax
 
 # {{TemplateHeader}}
 ## {{TemplatePage}}
