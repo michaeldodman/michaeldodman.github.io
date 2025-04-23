@@ -1,5 +1,7 @@
 # michaeldodman.github.io
 
+Currently working on my Obsidian notes, will update my website when they are healthier.
+
 ![](./media/interface/logo.png)
 
 Aspiring mad scientist. Career in progress. Experiments ongoing. This site exists to keep track of my descent. Please feel free to take a look around.
