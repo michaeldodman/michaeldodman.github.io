@@ -1,4 +1,4 @@
-# Mizi
+# Michael Dodman
 ## About
 ###  
 This site was generated using this file: [website.md](https://raw.githubusercontent.com/AbstractXan/Mizi/master/src/website.md)
@@ -20,9 +20,9 @@ This is separate page2
 
 ## Index
 ### First
-Lorem Ipsum
+Lorem Ipsum yo mama
 ### Second
-Dolor sit amet
+Dolor sit amet what what what
 ### Third
 Consectetur adipiscing elit
 Hell!
