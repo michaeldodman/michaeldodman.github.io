@@ -73,7 +73,7 @@ a { text-decoration: underline; }
 }
 body main p sub { font-size: 14px;font-style: italic;}
 
-@media (max-width: 900px) {
+@media (max-width: 300px) {
   body { padding: 30px; }
   body main > ul.jump { columns: 1 !important }
 }
