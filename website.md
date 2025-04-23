@@ -1,107 +1,93 @@
 # Michael Dodman
 ## About
-###  
-This site was generated using this file: [website.md](https://raw.githubusercontent.com/AbstractXan/Mizi/master/src/website.md)
+### Me
 
-[Read more](https://github.com/abstractxan/mizi) about Mizi
+### Fictional inspirations
 
-# $$$ 
-## separate
-### 
-This is a separate page
-## separate2
-###  
-This is separate page2
+![rick_sanchez](../media/inspirations/rick_sanchez.jpg) ![ouroboros](../media/inspirations/ouroboros.jpg)
 
-# Features
-## HTML
-### Html &lt; p &gt; tag
-<p>This is a paragraph</p>
+## Work
 
-## Index
-### First
-Lorem Ipsum yo mama
-### Second
-Dolor sit amet what what what
-### Third
-Consectetur adipiscing elit
-Hell!
+## Notes
 
-## Unordered List
-### UL
-- First
-- Second
-- Third
-### UL Overflow Check
-- Above text should be heading 
+## CV
 
-## Links
-### Simple
-[link](https://www.abstractxan.xyz)
-### Inline
-Text [link](https://abstractxan.xyz) text
-### Multiple
-Text [link](https://abstractxan.xyz) text [link](https://abstractxan.xyz) text
-### Errors
-[broken text (https://abstractxan.xyz)
+### Current
 
-[broken text [text](https://abstractxan.xyz)
+### Experience
 
-[broken link](https://abstractxan.xyz [normal link](https://www.abstractxan.xyz)
+- Data Science Fellow
+- Faculty, London, UK — Feb 2025 - Apr 2025
+- 9-week intensive program with technical and commercial training.
+- Collaborated with Graffinity and UCL on a formative assessment tool evaluation pipeline.
 
-[broken link]
+- Graduate Mechanical Engineer
+- Integration, London, UK — Aug 2024 - Feb 2025
+- Designed MEP services for high-end residential buildings.
+- Developed 3D models and performed thermal analysis.
 
-[nested [links] (https://abstractxan.xyz)](https://google.com)
+- Junior Control Engineer
+- Massive Analytic, London, UK — Sep 2022 - Dec 2022
+- Supported ERC grant application for autonomous driving systems.
+- Conducted real-time model testing in digital twin environments.
 
-## Images
-### Optional alt text
-![](../media/interface/favicon.ico)
-### Single
-![image](../media/interface/favicon.ico)
-### Inline
-Text ![image](../media/interface/favicon.ico) Text
-### Multiple
-![image](../media/interface/favicon.ico) ![image](../media/interface/favicon.ico)
-### Errors
-![brokenImageText (../media/interface/favicon.ico)
-![brokenImageLink]
+- Research Intern in Robotics
+- UCL, London, UK — Jul 2022 - Sep 2022
+- Implemented robotic motion planning using variational autoencoders.
+- Developed latent variable models for optimized path planning.
 
-## SeparatePages
-### 
-Separate pages are not shown on home page
-- [Separate page](separate.html)
-- [Separate page2](separate2.html)
+### Projects
 
+- London DefenceTech Hackathon
+- Used YOLOv8n for vehicle detection and tracking on edge devices.
+- Achieved 90% validation precision in 24 hours.
 
-## Templates
-### Intro
-Templates are defined in [template.conf](https://raw.githubusercontent.com/AbstractXan/Mizi/master/src/template.conf) file and used in [website.md](https://raw.githubusercontent.com/AbstractXan/Mizi/master/src/website.md)
+- ANFIS-MPC: Autonomous Vehicle Learning-Based MPC (Master’s Project)
+- Integrated deep learning with MPC for real-time control.
+- Validated using Unity, MATLAB, and Python.
 
-### Single Line No Argument
-{{SingleLineTemplateNoArg}}
+- CFD Modelling of Cerebral Aneurysms
+- Compared Newtonian and non-Newtonian models using ANSYS Fluent.
+- Demonstrated benefits of aneurysm coiling in reducing rupture risk.
 
-### Single Line One Arg
-{{variable = asdfasf}}
-{{SingleLineTemplateOneArg var=variable }}
-{{SingleLineTemplateOneArg var=value2}}
+- Internal Explosions in Piping Networks
+- Researched explosion dynamics and modeling.
+- Evaluated safety standards and mitigation strategies.
 
-### Single Line Multiple Arg
-{{SingleLineTemplateMultipleArg var1=value1 var2=value2}}
+### Education
 
-### Multi Line No Arg
-{{MultiLineTemplateNoArg}}
+- University College London
+- Mechanical Engineering MEng, First Class Honours (2018 - 2022)
+- Minor in Engineering Mathematics
 
-### Multi Line One Arg
-{{MultiLineTemplateOneArg var=value1}}
+### Awards
 
-### Multi Line Multple Arg
-{{MultiLineTemplateMultipleArg var1=value1 var2=value2}}
+- TRAVisions Young Researcher Competition 2022 – 2nd Place
+- Marine Autonomy Challenge 2021 – 1st Place
 
-### Bad Syntax Examples
-- {{NonexistentTemplate}}
-- {SingleLineTemplateNoArg} <- Wrong Syntax
+### Relevant Courses
 
-# {{TemplateHeader}}
-## {{TemplatePage}}
-### {{TemplateSection}}
-Text
+- Stochastic Calculus & Uncertainty Analysis – 91.5%
+- Data Mining & Analysis – 80.1%
+- Mathematical Modelling & Analysis II – 95.8%
+- Advanced Computer Applications in Engineering – 86.6%
+- Advanced Thermodynamics and Fluid Mechanics – 89.9%
+
+### Certifications
+
+- ML Engineering for Production (MLOps Specialization) – May 2024
+- KX Advanced Course – Nov 2023
+
+### Skills
+
+- Analytical Skills:
+- Machine Learning, Deep Learning, FEA/CFD, Data Visualisation, Numerical & Probabilistic Methods, Stochastic Modelling
+
+- Programming Languages:
+- Python, MATLAB, KDB+/Q, SQL
+
+- Python Libraries:
+- Pandas, Matplotlib, NumPy, SciPy, PyTorch, TensorFlow
+
+- Software & Tools:
+- ANSYS, ABAQUS, CATIA, Unity, LaTeX

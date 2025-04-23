@@ -28,9 +28,9 @@ body main > h2 {
   text-transform: capitalize;
   margin-top: 45px; 
 }
-body main > img { max-width: 600px }
+body main > img { max-width: 300px }
 body main > ul { font-family: 'input_mono_regular'; font-size:14px; line-height: 20px }
-body main > ul li {}
+/*body main > ul li {} */
 body main > ul li a { text-transform: capitalize; text-decoration: underline; }
 body main > ul li b { font-weight: bold }
 body main > ul li:hover a { text-decoration: none; }
@@ -59,6 +59,8 @@ body main ul.gallery li h4 { font-family: "alte_haas_grotesk_bold", "Helvetica N
 body footer { border-top: 1.5px solid black;padding-top: 30px;margin-bottom: 120px; max-width: 600px }
 body footer p { font-weight: bold }
 body footer p a { text-decoration: underline; }
+
+body footer img { max-height: 30px; max-width: 30px; margin-right: 10px; }
 
 img.thumbnail { border-radius: 3px;max-width: calc(100% - 20px);margin-bottom: 10px;}
 
